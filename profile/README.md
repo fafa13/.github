@@ -1,50 +1,52 @@
-# TAGC - Theories and Approaches of Genomic Complexity
+## **TAGC - Theories and Approaches of Genomic Complexity**
 
-Welcome to the GitHub repository for TAGC (Theories and Approaches of Genomic Complexity) organization.
+**Welcome to the official TAGC GitHub repository!**
 
-## About TAGC
+### About TAGC
 
-TAGC is an Inserm/AMU research laboratory dedicated to investigating theories and approaches in genomic complexity. Our research spans diverse genomics topics, aiming to contribute to a comprehensive understanding of complex genomic systems. As part of the TAGC, we strongly advocate for the widespread sharing of our research. Committed to the principle that publicly funded research should be freely accessible, we encourage our staff to make their findings available to a broad audience. Emphasizing the importance of open data and science, we are dedicated to fostering scientific progress and innovation through our ongoing commitment to this endeavor.
+TAGC, the Laboratory for Theories and Approaches of Genomic Complexity, is an Inserm/AMU research laboratory dedicated to investigating the diverse and intricate aspects of genomic complexity. Our research spans a broad range of genomics topics, aiming to unravel the fundamental principles that govern the organization and function of complex genomic systems.
 
-For more information about TAGC, visit our [official website](https://tagc.univ-amu.fr/).
+**At TAGC, we are committed to:**
 
-## Repositories
+* **Sharing our research findings with the world** to promote scientific progress and innovation.
+* **Adopting open science practices**, making our research freely accessible to all.
+* **Developing and utilizing cutting-edge tools** to advance our understanding of genomic complexity.
 
-Explore our repositories to find research projects, tools, and resources related to genomic complexity.
+### Explore Our Repositories
 
-### Example Repository
+Delve into our repositories to discover research projects, tools, and resources related to genomic complexity. Engage with our research and contribute to the advancement of our field.
 
-- [Example Project](https://github.com/TAGC_U1090/example-project): Brief description of the example project.
+#### Example Repository
 
-## Community
+* **Example Project:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 
-Connect with TAGC on social media and collaborative platforms:
+### Join Our Community
 
-- Twitter: [@TAGC_U1090](https://twitter.com/TAGC_U1090)
-- Zenodo Community: [TAGC on Zenodo](https://zenodo.org/communities/tagc)
+Connect with TAGC through social media and collaborative platforms to stay informed about our latest research and engage with our community of scientists and researchers.
 
-## Contact
+* **Twitter:** @TAGC_U1090: [https://twitter.com/TAGC_U1090](https://twitter.com/TAGC_U1090)
+* **Zenodo Community:** TAGC on Zenodo: [https://zenodo.org/communities/tagc](https://zenodo.org/communities/tagc)
 
-For inquiries, please contact us.
+### Contact Us
 
-We appreciate your interest in our research and welcome collaboration.
+For any questions or inquiries, please feel free to contact us. We welcome your interest in our research and are always open to collaboration.
 
-## Find Us
+* Email: [TAGC_U1090@inserm.fr](TAGC_U1090@inserm.fr)
+* Website: [TAGC - Theories and Approaches of Genomic Complexity](https://tagc.univ-amu.fr/)
 
-Visit us at [TAGC - Theories and Approaches of Genomic Complexity](https://tagc.univ-amu.fr/)
+### Visit Us
+
+Learn more about TAGC and our research at our official website:
+TAGC - Theories and Approaches of Genomic Complexity: [https://tagc.univ-amu.fr/](https://tagc.univ-amu.fr/)
 
 ### Location
+
 Laboratoire TAGC/INSERM U1090
-
 Parc Scientifique de Luminy, Case 928
-
 163 Avenue de Luminy
-
 13288 Marseille Cedex 09
-
 France
 
 ### Google Map
-[Click here to view on Google Maps][(https://maps.app.goo.gl/s9dgTpa97emEcZGa7)
 
-
+Click here to view on Google Maps: [https://maps.app.goo.gl/s9dgTpa97emEcZGa7](https://maps.app.goo.gl/s9dgTpa97emEcZGa7)
