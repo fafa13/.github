@@ -25,6 +25,6 @@ Connect with TAGC on social media and collaborative platforms:
 
 ## Contact
 
-For inquiries, please contact us at [tagc@example.com](mailto:tagc@example.com).
+For inquiries, please contact us.
 
 We appreciate your interest in our research and welcome collaboration.
