@@ -19,7 +19,7 @@ Delve into our repositories to discover research projects, tools, and resources 
 #### Repositories
 
 * **Example Project1:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
-* **Example Project:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
+* **Example Project2:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 
 ### Join Our Community
 
