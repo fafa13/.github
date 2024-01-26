@@ -4,7 +4,7 @@ Welcome to the GitHub repository for TAGC (Theories and Approaches of Genomic Co
 
 ## About TAGC
 
-TAGC is a research organization focused on exploring theories and approaches related to genomic complexity. Our work encompasses a wide range of topics in genomics, and we aim to contribute to the understanding of complex genomic systems.
+TAGC is an Inserm/AMU research laboratory dedicated to investigating theories and approaches in genomic complexity. Our research spans diverse genomics topics, aiming to contribute to a comprehensive understanding of complex genomic systems. As part of the TAGC, we strongly advocate for the widespread sharing of our research. Committed to the principle that publicly funded research should be freely accessible, we encourage our staff to make their findings available to a broad audience. Emphasizing the importance of open data and science, we are dedicated to fostering scientific progress and innovation through our ongoing commitment to this endeavor.
 
 For more information about TAGC, visit our [official website](https://tagc.univ-amu.fr/).
 
