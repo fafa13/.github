@@ -32,7 +32,7 @@ Connect with TAGC through social media and collaborative platforms to stay infor
 
 For any questions or inquiries, please feel free to contact us. We welcome your interest in our research and are always open to collaboration.
 
-* Email: [TAGC_U1090@inserm.fr](https://tagc.univ-amu.fr/en/contact)
+* Email: [Contact page TAGC_U1090](https://tagc.univ-amu.fr/en/contact)
 * Website: [TAGC - Theories and Approaches of Genomic Complexity](https://tagc.univ-amu.fr/)
 
 ### Visit Us
