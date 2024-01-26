@@ -18,7 +18,8 @@ Delve into our repositories to discover research projects, tools, and resources 
 
 #### Repositories
 
-* **Example Project1:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
+* **RNA Pol2 Atlas:** [https://github.com/benoitballester/Pol2Atlas](https://github.com/benoitballester/Pol2Atlas)
+* **MUFFIN package** [https://github.com/pdelangen/Muffin](https://github.com/pdelangen/Muffin)
 * **Example Project2:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 
 ### Join Our Community
