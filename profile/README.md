@@ -28,3 +28,23 @@ Connect with TAGC on social media and collaborative platforms:
 For inquiries, please contact us.
 
 We appreciate your interest in our research and welcome collaboration.
+
+## Find Us
+
+Visit us at [TAGC - Theories and Approaches of Genomic Complexity](https://tagc.univ-amu.fr/)
+
+### Location
+Laboratoire TAGC/INSERM U1090
+
+Parc Scientifique de Luminy, Case 928
+
+163 Avenue de Luminy
+
+13288 Marseille Cedex 09
+
+France
+
+### Google Map
+[Click here to view on Google Maps][(https://maps.app.goo.gl/s9dgTpa97emEcZGa7)
+
+
