@@ -16,8 +16,9 @@ TAGC, the Laboratory for Theories and Approaches of Genomic Complexity, is an In
 
 Delve into our repositories to discover research projects, tools, and resources related to genomic complexity. Engage with our research and contribute to the advancement of our field.
 
-#### Example Repository
+#### Repositories
 
+* **Example Project1:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 * **Example Project:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 
 ### Join Our Community
@@ -31,7 +32,7 @@ Connect with TAGC through social media and collaborative platforms to stay infor
 
 For any questions or inquiries, please feel free to contact us. We welcome your interest in our research and are always open to collaboration.
 
-* Email: [TAGC_U1090@inserm.fr](TAGC_U1090@inserm.fr)
+* Email: [TAGC_U1090@inserm.fr](https://tagc.univ-amu.fr/en/contact)
 * Website: [TAGC - Theories and Approaches of Genomic Complexity](https://tagc.univ-amu.fr/)
 
 ### Visit Us
