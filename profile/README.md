@@ -46,11 +46,11 @@ TAGC - Theories and Approaches of Genomic Complexity: [https://tagc.univ-amu.fr/
 
 ### Location
 
-Laboratoire TAGC/INSERM U1090
-Parc Scientifique de Luminy, Case 928
-163 Avenue de Luminy
-13288 Marseille Cedex 09
-France
+Laboratoire TAGC/INSERM U1090<br>
+Parc Scientifique de Luminy, Case 928<br>
+163 Avenue de Luminy <br>
+13288 Marseille Cedex 09 <br>
+France<br>
 
 ### Google Map
 
