@@ -18,11 +18,20 @@ TAGC, the Laboratory for Theories and Approaches of Genomic Complexity, is an In
 
 Delve into our repositories to discover research projects, tools, and resources related to genomic complexity. Engage with our research and contribute to the advancement of our field.
 
-#### Repositories
+#### Tools and Databases Repositories
 
-* **RNA Pol2 Atlas:** [https://github.com/benoitballester/Pol2Atlas](https://github.com/benoitballester/Pol2Atlas)
+* **pygtftk toolkit** [https://github.com/pdelangen/Muffin](https://github.com/dputhier/pygtftk)
+* **SciGeneX repository** [https://github.com/dputhier/scigenex](https://github.com/dputhier/scigenex)
 * **MUFFIN package** [https://github.com/pdelangen/Muffin](https://github.com/pdelangen/Muffin)
 * **ReMap pipeline** [https://github.com/remap-cisreg/remap-pipeline](https://github.com/remap-cisreg/remap-pipeline)
+
+#### Research Projects Repositories
+
+* **RNA Pol2 Atlas:** [https://github.com/benoitballester/Pol2Atlas](https://github.com/benoitballester/Pol2Atlas)
+* **Example Project2:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
+
+#### Courses Repositories
+
 * **Example Project2:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
 
 ### Join Our Community
