@@ -24,15 +24,15 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **SciGeneX repository** [https://github.com/dputhier/scigenex](https://github.com/dputhier/scigenex)
 * **MUFFIN package** [https://github.com/pdelangen/Muffin](https://github.com/pdelangen/Muffin)
 * **ReMap pipeline** [https://github.com/remap-cisreg/remap-pipeline](https://github.com/remap-cisreg/remap-pipeline)
-* **mimicINT**[https://github.com/TAGC-NetworkBiology/mimicINT](https://github.com/TAGC-NetworkBiology/mimicINT)
-* **MetamORF**[https://github.com/TAGC-NetworkBiology/MetamORF](https://github.com/TAGC-NetworkBiology/MetamORF)
-* **epiMEIF**[https://github.com/TAGC-NetworkBiology/epiMEIF](https://github.com/TAGC-NetworkBiology/epiMEIF)
+* **mimicINT** [https://github.com/TAGC-NetworkBiology/mimicINT](https://github.com/TAGC-NetworkBiology/mimicINT)
+* **MetamORF** [https://github.com/TAGC-NetworkBiology/MetamORF](https://github.com/TAGC-NetworkBiology/MetamORF)
+* **epiMEIF** [https://github.com/TAGC-NetworkBiology/epiMEIF](https://github.com/TAGC-NetworkBiology/epiMEIF)
  
 #### Research Projects Repositories
 
 * **RNA Pol2 Atlas:** [https://github.com/benoitballester/Pol2Atlas](https://github.com/benoitballester/Pol2Atlas)
 * **Epromoter pipeline** [https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline](https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline)
-* **ArchiHeart**[https://github.com/TAGC-NetworkBiology/ArchiHeart](https://github.com/TAGC-NetworkBiology/ArchiHeart)
+* **ArchiHeart** [https://github.com/TAGC-NetworkBiology/ArchiHeart](https://github.com/TAGC-NetworkBiology/ArchiHeart)
 * **v**[]()
 
 #### Courses Repositories
