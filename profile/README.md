@@ -37,8 +37,8 @@ Delve into our repositories to discover research projects, tools, and resources 
 
 #### Courses Repositories
 
-* **Example Project2:** [https://github.com/TAGC_U1090/example-project](https://github.com/TAGC_U1090/example-project)
-* **v**[]()
+* **CENTURI Summer School 2021** [https://github.com/benoitballester/centuri-summer-school-2021](https://github.com/benoitballester/centuri-summer-school-2021)
+* **INSERM workshop on Machine Learning in Biology** [https://github.com/benoitballester/inserm-ML-workshop-266](https://github.com/benoitballester/inserm-ML-workshop-266)
 * **v**[]()
 
 ### Join Our Community
