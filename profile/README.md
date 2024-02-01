@@ -14,11 +14,9 @@ TAGC, the Laboratory for Theories and Approaches of Genomic Complexity, is an In
 * **Adopting open science practices**, making our research freely accessible to all.
 * **Developing and utilizing cutting-edge tools** to advance our understanding of genomic complexity.
 
-### Explore Our Repositories
-
 Delve into our repositories to discover research projects, tools, and resources related to genomic complexity. Engage with our research and contribute to the advancement of our field.
 
-#### Tools and Databases Repositories
+### Tools and Databases Repositories
 
 * **pygtftk toolkit** [https://github.com/pdelangen/Muffin](https://github.com/dputhier/pygtftk)
 * **SciGeneX repository** [https://github.com/dputhier/scigenex](https://github.com/dputhier/scigenex)
@@ -28,14 +26,14 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **MetamORF** [https://github.com/TAGC-NetworkBiology/MetamORF](https://github.com/TAGC-NetworkBiology/MetamORF)
 * **epiMEIF** [https://github.com/TAGC-NetworkBiology/epiMEIF](https://github.com/TAGC-NetworkBiology/epiMEIF)
  
-#### Research Projects Repositories
+### Research Projects Repositories
 
 * **RNA Pol2 Atlas:** [https://github.com/benoitballester/Pol2Atlas](https://github.com/benoitballester/Pol2Atlas)
 * **Epromoter pipeline** [https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline](https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline)
 * **ArchiHeart** [https://github.com/TAGC-NetworkBiology/ArchiHeart](https://github.com/TAGC-NetworkBiology/ArchiHeart)
 * **v**[]()
 
-#### Courses Repositories
+### Courses Repositories
 
 * **CENTURI Summer School 2021** [https://github.com/benoitballester/centuri-summer-school-2021](https://github.com/benoitballester/centuri-summer-school-2021)
 * **INSERM workshop on Machine Learning in Biology** [https://github.com/benoitballester/inserm-ML-workshop-266](https://github.com/benoitballester/inserm-ML-workshop-266)
