@@ -1,8 +1,6 @@
 ![Header](./github-header-image.png)
 
-## **TAGC - Theories and Approaches of Genomic Complexity**
-
-**Welcome to the TAGC GitHub repository!**
+## **TAGC - Theories and Approaches of Genomic Complexity - GitHub repository**
 
 ### About TAGC
 
