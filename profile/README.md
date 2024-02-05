@@ -16,10 +16,11 @@ Delve into our repositories to discover research projects, tools, and resources 
 
 ### Tools and Databases Repositories
 
-* **pygtftk toolkit** [https://github.com/pdelangen/Muffin](https://github.com/dputhier/pygtftk)
-* **SciGeneX repository** [https://github.com/dputhier/scigenex](https://github.com/dputhier/scigenex)
 * **MUFFIN package** [https://github.com/pdelangen/Muffin](https://github.com/pdelangen/Muffin)
 * **ReMap pipeline** [https://github.com/remap-cisreg/remap-pipeline](https://github.com/remap-cisreg/remap-pipeline)
+* **pygtftk toolkit** [https://github.com/dputhier/pygtftk](https://github.com/dputhier/pygtftk)
+* **libgtftk** [https://github.com/dputhier/libgtftk](https://github.com/dputhier/libgtftk)
+* **SciGeneX repository** [https://github.com/dputhier/scigenex](https://github.com/dputhier/scigenex)
 * **mimicINT** [https://github.com/TAGC-NetworkBiology/mimicINT](https://github.com/TAGC-NetworkBiology/mimicINT)
 * **MetamORF** [https://github.com/TAGC-NetworkBiology/MetamORF](https://github.com/TAGC-NetworkBiology/MetamORF)
 * **epiMEIF** [https://github.com/TAGC-NetworkBiology/epiMEIF](https://github.com/TAGC-NetworkBiology/epiMEIF)
@@ -27,6 +28,8 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **VTAM** [https://github.com/aitgon/vtam](https://github.com/aitgon/vtam)
 * **WopMars workflow** [https://github.com/aitgon/wopmars](https://github.com/aitgon/wopmars)
 * **TAGOOS** [https://github.com/aitgon/tagoos](https://github.com/aitgon/tagoos)
+* **ChagasDB** [https://github.com/TAGC-ComplexDisease/ChagasDB](https://github.com/TAGC-ComplexDisease/ChagasDB)
+
 
 ### Research Papers Repositories
 
@@ -34,6 +37,9 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **Epromoter pipeline** [https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline](https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline)
 * **ArchiHeart** [https://github.com/TAGC-NetworkBiology/ArchiHeart](https://github.com/TAGC-NetworkBiology/ArchiHeart)
 * **LedPred data** [https://github.com/aitgon/LedPreddat](https://github.com/aitgon/LedPreddat)
+* **RAINET-RNA** [https://github.com/TAGC-Brun/RAINET-RNA](https://github.com/TAGC-Brun/RAINET-RNA)
+* **biomarkersChagas** [https://github.com/TAGC-ComplexDisease/biomarkersChagas](https://github.com/TAGC-ComplexDisease/biomarkersChagas)
+* **epiChagas** [https://github.com/TAGC-ComplexDisease/epiChagas](https://github.com/TAGC-ComplexDisease/epiChagas)
 
 ### Courses Repositories
 
