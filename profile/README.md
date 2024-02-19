@@ -29,7 +29,8 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **WopMars workflow** [https://github.com/aitgon/wopmars](https://github.com/aitgon/wopmars)
 * **TAGOOS** [https://github.com/aitgon/tagoos](https://github.com/aitgon/tagoos)
 * **ChagasDB** [https://github.com/TAGC-ComplexDisease/ChagasDB](https://github.com/TAGC-ComplexDisease/ChagasDB)
-
+* **MetaWorkflow TGML** [https://github.com/TGMLplatform/mw-tgml](https://github.com/TGMLplatform/mw-tgml)
+  
 
 ### Research Papers Repositories
 
